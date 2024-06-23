@@ -1,0 +1,2 @@
+# gitTraining
+for intermediate training
